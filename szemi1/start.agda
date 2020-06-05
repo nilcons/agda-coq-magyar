@@ -47,6 +47,12 @@ module start where
 * -s 3 : 3. lehetőség kiválasztása (a `-l`-es listából)
 * -l -s 10 : további lehetőségek listázása
 * -c : esetszétválasztás is engedélyezve van
+
+## VNC
+
+* `F8`: a VNC kliens fő menüje. Itt lehet opciókat állítani, full screenbe tenni és vissza, kilépni…
+* `Ctrl-Alt-nyilak`: a VNC-n belül mozgás desktopok között
+* `Ctrl-Alt-F`: a **VNC-n belül** full screen ki/be
 -}
 
 open import Data.Nat
