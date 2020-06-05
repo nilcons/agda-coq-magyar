@@ -1,0 +1,4 @@
+name: szemi1
+depend:
+  standard-library
+include: .
